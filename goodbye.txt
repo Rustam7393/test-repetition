@@ -1,4 +1,4 @@
-print ('goodbye world')
+print ('goodbye world');
 print ('everybody goodbye')
 print ('goodbye')
 print ('bye-bye')
